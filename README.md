@@ -317,4 +317,6 @@ Participation is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Code is [MIT-licensed](LICENSE) — yours to adapt for your own prep, or any other exam. The engine is generic; replace the data files and it works for anything with multiple-choice questions, flashcards, and concept notes.
 
+Denis
+
 Question content is aggregated and rewritten from publicly-available KCNA prep materials (CNCF documentation, kubernetes.io, open-source quizzes, and reference books). If you redistribute or republish that content, please credit the underlying upstream sources.
